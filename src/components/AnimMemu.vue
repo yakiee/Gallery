@@ -33,7 +33,7 @@ let leaveMenu = () => {
     <span :show="isCollapse">
         <n-space justify="end">
             <n-button quaternary color="#F0ECFF">Home</n-button>
-            <n-button quaternary color="#F0ECFF">Library</n-button></n-button>
+            <n-button quaternary color="#F0ECFF">Library</n-button>
             <n-button quaternary color="#F0ECFF">Friends</n-button>
         </n-space>
     </span>
