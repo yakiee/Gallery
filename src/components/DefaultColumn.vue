@@ -11,9 +11,8 @@ interface DefaultColumnProps {
 </script>
 
 <template>
-    <div ></div>
+    <div></div>
 </template>
 
 <style scoped>
-
 </style>
